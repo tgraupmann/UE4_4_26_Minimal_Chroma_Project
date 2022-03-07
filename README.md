@@ -1,3 +1,5 @@
+# Deprecated
+
 * Note: Visit the [Chroma Animation Guide](https://chroma.razer.com/ChromaGuide/) to find the latest supported plugin for Chroma RGB.
 
 * Note: Go to [UE4_XDK_SampleApp](https://github.com/razerofficial/UE4_XDK_SampleApp) for the updated UE4 Chroma SDK plugin.
